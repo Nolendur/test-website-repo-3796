@@ -3,4 +3,4 @@ title: JdR persos
 ---
 _Le grenier de Nolendur_
 
-## [ en cours de développement... ]
+## <span style="color: #FF4444">[ en cours de développement... ]</span>
