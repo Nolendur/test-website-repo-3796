@@ -1,4 +1,4 @@
 ---
 title: Aides de jeu
 ---
-/!\ En cours de développement /!\
+## /!\ En cours de développement /!\
