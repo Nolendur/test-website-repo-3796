@@ -3,7 +3,7 @@ title: Aides de jeu
 ---
 _Le grenier de Nolendur_
 
-## [color=#26B260][ en cours de développement... ][/color]
+## <span style="color: #0000FF">[ en cours de développement... ]</span>
 
 ## AdJ pour un jeu spécifique
 
