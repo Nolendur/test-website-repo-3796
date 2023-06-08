@@ -37,6 +37,15 @@ _Le grenier de Nolendur_
 [Fiche d'aide Fate Core](https://drive.google.com/file/d/1okWs2anz2BftyZhrIUtbFFJpAkOIz1P4/view?usp=sharing) : _carte résumée (avec compétences persos)_  
 [Fiche d'aide FAE](https://drive.google.com/file/d/13LNWWY2s8EiIzYryHNGn3lZ0iLsirRU5/view?usp=sharing) : _carte résumée (avec approches persos)_  
 
+### ... Super! REd
+
+[Super! - Aptitudes](https://drive.google.com/file/d/1Fjl0fy-FSmUFzFbM8c4F9zqLT7WvUGda/view?usp=sharing) : _traduction des noms des aptitudes et archétypes_  
+[Super! - Pouvoirs](https://drive.google.com/file/d/1PobIAI2DOiZQwWukC3Wpz7XWcvpzBVkL/view?usp=sharing) : _traduction des noms des pouvoirs et origines_  
+[Super! - Améliorations](https://drive.google.com/file/d/1w7msDmR9hdY4bwTDSXhA9eUehQIzaXlf/view?usp=sharing) : _traduction des noms des améliorations et complications_  
+[Super! - Avantages](https://drive.google.com/file/d/1WYBKIPNdEOZh7hvPxBaM2pyswutSLS9u/view?usp=sharing) : _traduction des noms des avantages et désavantages_  
+[Super! - FdP](https://drive.google.com/file/d/1j32Zr0cc00et6iBVAy_MuZjU8UYYmcED/view?usp=sharing) : _feuille de personnage_  
+[Super! - AltanVerse](https://drive.google.com/file/d/1Hsv-X-llAF42KgZ-kx4lsUoGF0d-EOwz/view?usp=sharing) : _mini-univers maison_  
+
 
 
 [Titre](https://www.example.com/) : _description_
