@@ -37,9 +37,9 @@ _Le grenier de Nolendur_
 [FdP Fate Concentré CvSu](https://drive.google.com/file/d/1-QbAAUWXcwS_X7ylfYsC5l-ev1IdJffe/view?usp=sharing) : _avec compétences/aspects vierges et Stress unitaire_  
 [FdP Fate Concentré CvSc](https://drive.google.com/file/d/1aYF87GEHS3uSJJ_4XiB479y9_cQdS8GI/view?usp=sharing) : _avec compétences/aspects vierges et Stress classique_  
 
-[FdP FATE Core](http://sd-1.archive-host.com/membres/up/71838247519714980/FP/FateCore_FP01.pdf) : _feuille de personnage "Core" en français qui ressemble à la feuille officielle_  
+[FdP FATE Core](http://sd-1.archive-host.com/membres/up/71838247519714980/FP/FateCore_FP01.pdf) : _feuille de personnage "FATE Core" en français, look officiel_  
 [FdP FATE Core (alternative)](http://sd-1.archive-host.com/membres/up/71838247519714980/FP/FateCore_FP02.pdf) : _la même, mais légèrement adaptée_  
-[FdP FATE Accelerated Edition](http://sd-1.archive-host.com/membres/up/71838247519714980/FP/FateAccelerated_FP01.pdf) : _feuille de personnage "Accelerated Edition" en français qui ressemble à la feuille officielle_  
+[FdP FATE Accelerated Edition](http://sd-1.archive-host.com/membres/up/71838247519714980/FP/FateAccelerated_FP01.pdf) : _feuille de personnage "FAE" en français, look officiel_  
 [FdP FAE (modifiable)](http://sd-1.archive-host.com/membres/up/71838247519714980/FP/FateAccelerated_FP03_mod.pdf) : _la même, mais avec des approches modifiables_  
 [FdP FAE (perso)](https://drive.google.com/file/d/1VDAZ3WDk6R_GlZu8ruaJTWzAg7k8lNGv/view?usp=sharing) : _la même, mais avec des approches persos_  
 
