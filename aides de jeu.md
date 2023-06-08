@@ -14,6 +14,15 @@ _Le grenier de Nolendur_
 [24XX - Dark Arts](https://drive.google.com/file/d/1nD9AR7C4COFMxWrWk6AzEMXK0c_qvLuG/view?usp=sharing) : _JdR Sword and Sorcery basé sur 24XX_  
 [24XX - Dark Arts (NB)](https://drive.google.com/file/d/1c47Ch5k6pgrMPqCuhVm8gwF7pDx1cKyj/view?usp=sharing) : _version noir et blanc_  
 
+### ... Empire Galactique (Retro Galactique)
+
+[Retro Galactique](https://drive.google.com/file/d/17UF0qihmOtgTL44-pj_Mp-tyqIkL49-_/view?usp=sharing) : _hack personnel du système de jeu de l'Empire Galactique_  
+[Retro Galactique - fdp](https://drive.google.com/file/d/1-ufrN9T5hS9XjjPSe2hELIEvE6fQVYQk/view?usp=sharing) : _feuille de personnage correspondante_  
+[Retro Galactique - fdp 2](https://drive.google.com/file/d/1pKDYD2Tp8Ui52D2_cK2uPNq1fZF8_Uff/view?usp=sharing) : _feuille de personnage alternative_  
+[Retro Galactique - tables](https://drive.google.com/file/d/1DLcKNDYFvnKa9JgcVhMLATxEjnP4pUOi/view?usp=sharing) : _tables du jeu au format paysage pour l'écran du MJ_  
+[Retro Galactique Vaisseaux](https://drive.google.com/file/d/1YRN_itNRS-vZ2V0EDDl1Pp1Uuf5OVx1N/view?usp=sharing) : _gestion des vaisseaux_  
+[Retro Galactique Vaisseaux - fdp](https://drive.google.com/file/d/1SIyIC-_QIahgdrgu9pKui-qxlKnav1kq/view?usp=sharing) : _feuille de vaisseau correspondante_  
+
 ### ... EZD6
 
 [EZD6 - FdP](https://drive.google.com/file/d/1ANDGIe5rTrhnt3yeyfTT9QoWBOXZWy0v/view?usp=sharing) : _feuille de personnage_  
