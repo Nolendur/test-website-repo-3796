@@ -1,4 +1,6 @@
 ---
 title: JdR persos
 ---
-/!\ En cours de développement /!\
+# Le grenier de Nolendur - JdR persos
+
+## /!\ En cours de développement /!\
