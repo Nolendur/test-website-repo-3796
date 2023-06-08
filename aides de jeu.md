@@ -7,6 +7,13 @@ _Le grenier de Nolendur_
 
 ## Pour un jeu spécifique ...
 
+### ... 24XX
+
+[24XX - FdP mod](https://drive.google.com/file/d/1cHkUEnDlGQY6cBNTereNgt8wt__sJ0nR/view?usp=sharing) : _feuille de personnage générique/moderne pour 24XX_  
+[24XX - FdP anc](https://drive.google.com/file/d/1y_CkBEaK4m32YQwvYRICjGZL37Pbl5xw/view?usp=sharing) : _feuille de personnage générique/ancienne pour 24XX_  
+[24XX - Dark Arts](https://drive.google.com/file/d/1nD9AR7C4COFMxWrWk6AzEMXK0c_qvLuG/view?usp=sharing) : _JdR Sword and Sorcery basé sur 24XX_  
+[24XX - Dark Arts (NB)](https://drive.google.com/file/d/1c47Ch5k6pgrMPqCuhVm8gwF7pDx1cKyj/view?usp=sharing) : _version noir et blanc_  
+
 ### ... EZD6
 
 [EZD6 - FdP](https://drive.google.com/file/d/1ANDGIe5rTrhnt3yeyfTT9QoWBOXZWy0v/view?usp=sharing) : _feuille de personnage_  
