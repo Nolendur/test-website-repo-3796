@@ -46,6 +46,11 @@ _Le grenier de Nolendur_
 [Fiche d'aide Fate Core](https://drive.google.com/file/d/1okWs2anz2BftyZhrIUtbFFJpAkOIz1P4/view?usp=sharing) : _carte résumée (avec compétences persos)_  
 [Fiche d'aide FAE](https://drive.google.com/file/d/13LNWWY2s8EiIzYryHNGn3lZ0iLsirRU5/view?usp=sharing) : _carte résumée (avec approches persos)_  
 
+### ... "Loop Engine", version personnelle
+
+[MoToTLE](https://drive.google.com/file/d/1Ct-SkdaiKJYWRkj9tkMOApIn_vVJ5Ujd/view?usp=sharing) : _petit hack du système de jeu de Tales from the Loop_  
+[MoToTLE-fdp](https://drive.google.com/file/d/1NNtfdoJ5tg9_W6NBPLDGdOX9un_PuKN-/view?usp=sharing : _feuille de personnage pour MoToTLE_  
+
 ### ... Super! REd
 
 [Super! - Aptitudes](https://drive.google.com/file/d/1Fjl0fy-FSmUFzFbM8c4F9zqLT7WvUGda/view?usp=sharing) : _traduction des noms des aptitudes et archétypes_  
