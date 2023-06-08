@@ -1,6 +1,6 @@
 ---
 title: Aides de jeu
 ---
-# Le grenier de Nolendur - Aides de jeu
+_Le grenier de Nolendur_
 
 ## /!\ En cours de développement /!\
